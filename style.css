@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif; 
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+    height: 100vh; 
+    margin: 0; 
+    background-color: #fffefe; 
+  }
+  
+  .carousel {
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+  }
+  
+  .carousel-image {
+    width: 200px; 
+    height: 200px; 
+    margin-right: 20px;
+    transition: transform 0.5s ease-in-out, opacity 0.5s ease-in-out; 
+  }
+  
+  .carousel-image:hover {
+    transform: scale(1.2); 
+    opacity: 0.8;  cv v                                           j  
