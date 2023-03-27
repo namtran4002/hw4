@@ -5,7 +5,7 @@ body {
     align-items: center; 
     height: 100vh; 
     margin: 0; 
-    background-color: #fffefe; 
+    background-color: #c0b9b9; 
   }
   
   .carousel {
@@ -23,4 +23,4 @@ body {
   
   .carousel-image:hover {
     transform: scale(1.2); 
-    opacity: 0.8;  cv v                                           j  
+    opacity: 0.8;     }                                
